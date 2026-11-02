@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//team//public-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DPI-QIS events
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-CALDESC:Seminars\, talks and reading groups at the David Potter Instit
+ ute for Quantum Information and Spacetime\, UCL.
+BEGIN:VEVENT
+UID:4bf382ff0cfd5e10e44c@dpi-events.postquantum.space
+DTSTAMP:20261102T114231Z
+DTSTART:20250722T090000Z
+DTEND:20250722T170000Z
+SUMMARY:Summer Symposium on Quantum Information and Spacetime 2025
+LOCATION:University College London\, Gower Street\, London
+DESCRIPTION:One-day symposium on quantum information and spacetime at UCL\,
+  organised by Sougato Bose and Jonathan Oppenheim\, Tuesday 22 July 2025.\
+ n\nhttps://www.ucl.ac.uk/mathematical-physical-sciences/events/2025/jul/su
+ mmer-symposium-quantum-information-and-spacetime-2025
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2025/jul/su
+ mmer-symposium-quantum-information-and-spacetime-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:a72ef2941700afc42333@dpi-events.postquantum.space
+DTSTAMP:20261102T114231Z
+DTSTART:20260305T120000Z
+DTEND:20260305T130000Z
+SUMMARY:Large Language Models: A Physicist's Perspective
+LOCATION:Bentham House\, Room LG26\, 4–8 Endsleigh Gardens\, London
+DESCRIPTION:David Potter Institute for Quantum Information and Spacetime (D
+ PI-QIS) special seminar by Tobias Osborne (Leibniz Universität Hannover)\
+ , Thursday 5 March 2026\, 12:00\, Bentham House LG26.\n\nhttps://www.ucl.a
+ c.uk/mathematical-physical-sciences/events/2026/mar/large-language-models-
+ physicists-perspective
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/mar/la
+ rge-language-models-physicists-perspective
+END:VEVENT
+BEGIN:VEVENT
+UID:a1fda04f965a7dfe1fcf@dpi-events.postquantum.space
+DTSTAMP:20261102T114231Z
+DTSTART:20260903T130000Z
+DTEND:20260903T140000Z
+SUMMARY:Fundamental bound on Wigner negativity generation in open quantum s
+ ystems
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:Seminar at the David Potter Institute for Quantum Information a
+ nd Spacetime (DPI-QIS): Isaac Layton (University of Tokyo). Thursday 3 Sep
+ tember 2026\, 2pm.\n\nhttps://www.ucl.ac.uk/mathematical-physical-sciences
+ /events/2026/sep/fundamental-bound-wigner-negativity-generation-open-quant
+ um-systems
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/sep/fu
+ ndamental-bound-wigner-negativity-generation-open-quantum-systems
+END:VEVENT
+BEGIN:VEVENT
+UID:72ff14ade897777add05@dpi-events.postquantum.space
+DTSTAMP:20261102T114231Z
+DTSTART:20261006T100000Z
+DTEND:20261006T113000Z
+SUMMARY:Metaphysics\, Physics and Philosophy Research Group: Out of Nowhere
+ \, Chapter 1
+LOCATION:22 Gordon Square G2\, Gordon Square\, London
+DESCRIPTION:Reading session on Huggett and Wüthrich's Out of Nowhere\, cha
+ pter 1. Tuesday 6 October 2026\, 11:00-12:30\, 22 Gordon Square G2.\n\nhtt
+ ps://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/oct/metaphys
+ ics-physics-and-philosophy-research-group-out-nowhere-chapter-1
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/oct/me
+ taphysics-physics-and-philosophy-research-group-out-nowhere-chapter-1
+END:VEVENT
+BEGIN:VEVENT
+UID:dfb130ce93e6dd4069b5@dpi-events.postquantum.space
+DTSTAMP:20261102T114231Z
+DTSTART:20261008T113000Z
+DTEND:20261008T130000Z
+SUMMARY:Quantum thermodynamics for lattice gauge theories
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:David Potter Institute (DPI) seminar by Nicole Yunger Halpern (
+ NIST\, QuICS and University of Maryland)\, Thur\, Oct 8 2026\, 12:30\, DPI
+  Hub (G23\, Kathleen Lonsdale Building. Bring lunch)\n\nhttps://www.ucl.ac
+ .uk/mathematical-physical-sciences/events/2026/oct/quantum-thermodynamics-
+ lattice-gauge-theories
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/oct/qu
+ antum-thermodynamics-lattice-gauge-theories
+END:VEVENT
+BEGIN:VEVENT
+UID:b6a9733418cad22b9fcd@dpi-events.postquantum.space
+DTSTAMP:20261102T114231Z
+DTSTART:20261014T110000Z
+DTEND:20261014T120000Z
+SUMMARY:How to train your slop cannon (part I)
+LOCATION:Kathleen Lonsdale Building\, Room 126 (not the hub)\, Gower Place\
+ , London
+DESCRIPTION:Lunchtime session on using large language models in research\, 
+ for scientists who mostly know them through the chat window. Wednesday 14 
+ October\, 1200\, KLB 126\n\nhttps://www.ucl.ac.uk/mathematical-physical-sc
+ iences/events/2026/oct/how-train-your-slop-cannon-part-i
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/oct/ho
+ w-train-your-slop-cannon-part-i
+END:VEVENT
+BEGIN:VEVENT
+UID:dc468ae69188f371ba2d@dpi-events.postquantum.space
+DTSTAMP:20261102T114231Z
+DTSTART:20261020T100000Z
+DTEND:20261020T113000Z
+SUMMARY:Metaphysics\, Physics and Philosophy Research Group: Out of Nowhere
+ \, Chapters 2 and 3
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:Reading session on Huggett and Wüthrich's Out of Nowhere\, cha
+ pters 2 and 3. Tuesday 20 October 2026\, 11:00-12:30\, DPI Hub\, Room G23\
+ , Kathleen Lonsdale Building.\n\nhttps://www.ucl.ac.uk/mathematical-physic
+ al-sciences/events/2026/oct/metaphysics-physics-and-philosophy-research-gr
+ oup-out-nowhere-chapters-2-and-3
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/oct/me
+ taphysics-physics-and-philosophy-research-group-out-nowhere-chapters-2-and
+ -3
+END:VEVENT
+BEGIN:VEVENT
+UID:5a660f65f0ad4d8d5498@dpi-events.postquantum.space
+DTSTAMP:20261102T114231Z
+DTSTART:20261021T113000Z
+DTEND:20261021T123000Z
+SUMMARY:How to train your slop cannon (part II): AI skill share
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:Lunchtime AI skill share: swap tips and ask questions about usi
+ ng AI to accelerate science. Wednesday 21 October\, 12:30\, DPI Hub (G23)\
+ , Kathleen Lonsdale Building. Bring your own lunch.\n\nhttps://www.ucl.ac.
+ uk/mathematical-physical-sciences/events/2026/oct/how-train-your-slop-cann
+ on-part-ii-ai-skill-share
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/oct/ho
+ w-train-your-slop-cannon-part-ii-ai-skill-share
+END:VEVENT
+BEGIN:VEVENT
+UID:07d5a4ad01b1a2992fb3@dpi-events.postquantum.space
+DTSTAMP:20261102T114231Z
+DTSTART:20261103T110000Z
+DTEND:20261103T123000Z
+SUMMARY:Metaphysics\, Physics and Philosophy Research Group: Out of Nowhere
+ \, Chapters 4 and 5
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:Reading session on Huggett and Wüthrich's Out of Nowhere\, cha
+ pters 4 and 5. Tuesday 3 November 2026\, 11:00-12:30\, DPI Hub\, Room G23\
+ , Kathleen Lonsdale Building.\n\nhttps://www.ucl.ac.uk/mathematical-physic
+ al-sciences/events/2026/nov/metaphysics-physics-and-philosophy-research-gr
+ oup-out-nowhere-chapters-4-and-5
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/me
+ taphysics-physics-and-philosophy-research-group-out-nowhere-chapters-4-and
+ -5
+END:VEVENT
+BEGIN:VEVENT
+UID:01545d75990a707b2969@dpi-events.postquantum.space
+DTSTAMP:20261102T114231Z
+DTSTART:20261117T110000Z
+DTEND:20261117T123000Z
+SUMMARY:Metaphysics\, Physics and Philosophy Research Group: Out of Nowhere
+ \, Chapters 6 and 7
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:Reading session on Huggett and Wüthrich's Out of Nowhere\, cha
+ pters 6 and 7. Tuesday 17 November 2026\, 11:00-12:30\, DPI Hub\, Room G23
+ \, Kathleen Lonsdale Building.\n\nhttps://www.ucl.ac.uk/mathematical-physi
+ cal-sciences/events/2026/nov/metaphysics-physics-and-philosophy-research-g
+ roup-out-nowhere-chapters-6-and-7
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/me
+ taphysics-physics-and-philosophy-research-group-out-nowhere-chapters-6-and
+ -7
+END:VEVENT
+BEGIN:VEVENT
+UID:23aae7c9cb8deb5161b5@dpi-events.postquantum.space
+DTSTAMP:20261102T114231Z
+DTSTART:20261201T110000Z
+DTEND:20261201T123000Z
+SUMMARY:Metaphysics\, Physics and Philosophy Research Group: Out of Nowhere
+ \, Chapters 8 and 9
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:Reading session on Huggett and Wüthrich's Out of Nowhere\, cha
+ pters 8 and 9. Tuesday 1 December 2026\, 11:00-12:30\, DPI Hub\, Room G23\
+ , Kathleen Lonsdale Building.\n\nhttps://www.ucl.ac.uk/mathematical-physic
+ al-sciences/events/2026/dec/metaphysics-physics-and-philosophy-research-gr
+ oup-out-nowhere-chapters-8-and-9
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/dec/me
+ taphysics-physics-and-philosophy-research-group-out-nowhere-chapters-8-and
+ -9
+END:VEVENT
+BEGIN:VEVENT
+UID:9d213a68a999dec9ab37@dpi-events.postquantum.space
+DTSTAMP:20261102T114231Z
+DTSTART:20261215T110000Z
+DTEND:20261215T123000Z
+SUMMARY:Metaphysics\, Physics and Philosophy Research Group: Out of Nowhere
+ \, Chapters 10 and 11
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:Reading session on Huggett and Wüthrich's Out of Nowhere\, cha
+ pters 10 and 11. Tuesday 15 December 2026\, 11:00-12:30\, DPI Hub\, Room G
+ 23\, Kathleen Lonsdale Building.\n\nhttps://www.ucl.ac.uk/mathematical-phy
+ sical-sciences/events/2026/dec/metaphysics-physics-and-philosophy-research
+ -group-out-nowhere-chapters-10-and-11
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/dec/me
+ taphysics-physics-and-philosophy-research-group-out-nowhere-chapters-10-an
+ d-11
+END:VEVENT
+END:VCALENDAR
