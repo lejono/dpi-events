@@ -170,6 +170,22 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/ho
  w-train-your-slop-cannon-ai-skill-share
 END:VEVENT
 BEGIN:VEVENT
+UID:bacee02cc3111d45cbc2@dpi-events.postquantum.space
+DTSTAMP:20261103T154522Z
+DTSTART:20261105T133000Z
+DTEND:20261105T143000Z
+SUMMARY:Where is the entanglement in a quantum field\, and what can a local
+  observer access?
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:Group seminar by Sergi Nadal-Gisbert (DPI\, UCL) on vacuum enta
+ nglement in quantum field theory.\n\nhttps://www.ucl.ac.uk/mathematical-ph
+ ysical-sciences/events/2026/nov/where-entanglement-quantum-field-and-what-
+ can-local-observer-access
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/wh
+ ere-entanglement-quantum-field-and-what-can-local-observer-access
+END:VEVENT
+BEGIN:VEVENT
 UID:01545d75990a707b2969@dpi-events.postquantum.space
 DTSTAMP:20261102T114231Z
 DTSTART:20261117T110000Z
