@@ -11,7 +11,7 @@ X-WR-CALDESC:Seminars\, talks and reading groups at the David Potter Instit
  ute for Quantum Information and Spacetime\, UCL.
 BEGIN:VEVENT
 UID:4bf382ff0cfd5e10e44c@dpi-events.postquantum.space
-DTSTAMP:20261102T114231Z
+DTSTAMP:20261104T235948Z
 DTSTART:20250722T090000Z
 DTEND:20250722T170000Z
 SUMMARY:Summer Symposium on Quantum Information and Spacetime 2025
@@ -25,7 +25,7 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2025/jul/su
 END:VEVENT
 BEGIN:VEVENT
 UID:a72ef2941700afc42333@dpi-events.postquantum.space
-DTSTAMP:20261102T114231Z
+DTSTAMP:20261104T235948Z
 DTSTART:20260305T120000Z
 DTEND:20260305T130000Z
 SUMMARY:Large Language Models: A Physicist's Perspective
@@ -40,7 +40,7 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/mar/la
 END:VEVENT
 BEGIN:VEVENT
 UID:a1fda04f965a7dfe1fcf@dpi-events.postquantum.space
-DTSTAMP:20261102T114231Z
+DTSTAMP:20261104T235948Z
 DTSTART:20260903T130000Z
 DTEND:20260903T140000Z
 SUMMARY:Fundamental bound on Wigner negativity generation in open quantum s
@@ -57,7 +57,7 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/sep/fu
 END:VEVENT
 BEGIN:VEVENT
 UID:72ff14ade897777add05@dpi-events.postquantum.space
-DTSTAMP:20261102T114231Z
+DTSTAMP:20261104T235948Z
 DTSTART:20261006T100000Z
 DTEND:20261006T113000Z
 SUMMARY:Metaphysics\, Physics and Philosophy Research Group: Out of Nowhere
@@ -72,7 +72,7 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/oct/me
 END:VEVENT
 BEGIN:VEVENT
 UID:dfb130ce93e6dd4069b5@dpi-events.postquantum.space
-DTSTAMP:20261102T114231Z
+DTSTAMP:20261104T235948Z
 DTSTART:20261008T113000Z
 DTEND:20261008T130000Z
 SUMMARY:Quantum thermodynamics for lattice gauge theories
@@ -88,7 +88,7 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/oct/qu
 END:VEVENT
 BEGIN:VEVENT
 UID:b6a9733418cad22b9fcd@dpi-events.postquantum.space
-DTSTAMP:20261102T114231Z
+DTSTAMP:20261104T235948Z
 DTSTART:20261014T110000Z
 DTEND:20261014T120000Z
 SUMMARY:How to train your slop cannon (part I)
@@ -103,7 +103,7 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/oct/ho
 END:VEVENT
 BEGIN:VEVENT
 UID:dc468ae69188f371ba2d@dpi-events.postquantum.space
-DTSTAMP:20261102T114231Z
+DTSTAMP:20261104T235948Z
 DTSTART:20261020T100000Z
 DTEND:20261020T113000Z
 SUMMARY:Metaphysics\, Physics and Philosophy Research Group: Out of Nowhere
@@ -121,7 +121,7 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/oct/me
 END:VEVENT
 BEGIN:VEVENT
 UID:5a660f65f0ad4d8d5498@dpi-events.postquantum.space
-DTSTAMP:20261102T114231Z
+DTSTAMP:20261104T235948Z
 DTSTART:20261021T113000Z
 DTEND:20261021T123000Z
 SUMMARY:How to train your slop cannon (part II): AI skill share
@@ -137,7 +137,7 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/oct/ho
 END:VEVENT
 BEGIN:VEVENT
 UID:07d5a4ad01b1a2992fb3@dpi-events.postquantum.space
-DTSTAMP:20261102T114231Z
+DTSTAMP:20261104T235948Z
 DTSTART:20261103T110000Z
 DTEND:20261103T123000Z
 SUMMARY:Metaphysics\, Physics and Philosophy Research Group: Out of Nowhere
@@ -155,7 +155,7 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/me
 END:VEVENT
 BEGIN:VEVENT
 UID:1424ebe7f2e6aec94e34@dpi-events.postquantum.space
-DTSTAMP:20261102T144512Z
+DTSTAMP:20261104T235948Z
 DTSTART:20261104T123000Z
 DTEND:20261104T133000Z
 SUMMARY:How to train your slop cannon: AI skill share
@@ -171,7 +171,7 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/ho
 END:VEVENT
 BEGIN:VEVENT
 UID:bacee02cc3111d45cbc2@dpi-events.postquantum.space
-DTSTAMP:20261103T154522Z
+DTSTAMP:20261104T235948Z
 DTSTART:20261105T133000Z
 DTEND:20261105T143000Z
 SUMMARY:Where is the entanglement in a quantum field\, and what can a local
@@ -187,7 +187,7 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/wh
 END:VEVENT
 BEGIN:VEVENT
 UID:01545d75990a707b2969@dpi-events.postquantum.space
-DTSTAMP:20261102T114231Z
+DTSTAMP:20261104T235948Z
 DTSTART:20261117T110000Z
 DTEND:20261117T123000Z
 SUMMARY:Metaphysics\, Physics and Philosophy Research Group: Out of Nowhere
@@ -205,7 +205,7 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/me
 END:VEVENT
 BEGIN:VEVENT
 UID:23aae7c9cb8deb5161b5@dpi-events.postquantum.space
-DTSTAMP:20261102T114231Z
+DTSTAMP:20261104T235948Z
 DTSTART:20261201T110000Z
 DTEND:20261201T123000Z
 SUMMARY:Metaphysics\, Physics and Philosophy Research Group: Out of Nowhere
@@ -223,7 +223,7 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/dec/me
 END:VEVENT
 BEGIN:VEVENT
 UID:9d213a68a999dec9ab37@dpi-events.postquantum.space
-DTSTAMP:20261102T114231Z
+DTSTAMP:20261104T235948Z
 DTSTART:20261215T110000Z
 DTEND:20261215T123000Z
 SUMMARY:Metaphysics\, Physics and Philosophy Research Group: Out of Nowhere
