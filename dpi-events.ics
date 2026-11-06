@@ -219,6 +219,22 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/me
  -7
 END:VEVENT
 BEGIN:VEVENT
+UID:f587adfa0f36b958c0ef@dpi-events.postquantum.space
+DTSTAMP:20261106T174511Z
+DTSTART:20261118T123000Z
+DTEND:20261118T133000Z
+SUMMARY:How to train your slop cannon: AI skill share
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:The next AI lunch at the DPI is a skill share (no talk) on Wedn
+ esday 18 November 2026\, 12:30 to 13:30\, in the DPI Hub (Room G23\, Kathl
+ een Lonsdale Building). Bring your own lunch.\n\nhttps://www.ucl.ac.uk/mat
+ hematical-physical-sciences/events/2026/nov/how-train-your-slop-cannon-ai-
+ skill-share-0
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/ho
+ w-train-your-slop-cannon-ai-skill-share-0
+END:VEVENT
+BEGIN:VEVENT
 UID:23aae7c9cb8deb5161b5@dpi-events.postquantum.space
 DTSTAMP:20261104T235948Z
 DTSTART:20261201T110000Z
@@ -237,6 +253,22 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/dec/me
  -9
 END:VEVENT
 BEGIN:VEVENT
+UID:90eabd14c3d1b60a29e6@dpi-events.postquantum.space
+DTSTAMP:20261106T174511Z
+DTSTART:20261202T123000Z
+DTEND:20261202T133000Z
+SUMMARY:How to train your slop cannon: AI skill share
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:The next AI lunch at the DPI is a skill share (no talk) on Wedn
+ esday 2 December 2026\, 12:30 to 13:30\, in the DPI Hub (Room G23\, Kathle
+ en Lonsdale Building). Bring your own lunch.\n\nhttps://www.ucl.ac.uk/math
+ ematical-physical-sciences/events/2026/dec/how-train-your-slop-cannon-ai-s
+ kill-share
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/dec/ho
+ w-train-your-slop-cannon-ai-skill-share
+END:VEVENT
+BEGIN:VEVENT
 UID:9d213a68a999dec9ab37@dpi-events.postquantum.space
 DTSTAMP:20261104T235948Z
 DTSTART:20261215T110000Z
@@ -253,5 +285,21 @@ DESCRIPTION:Reading session on Huggett and Wüthrich's Out of Nowhere\, cha
 URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/dec/me
  taphysics-physics-and-philosophy-research-group-out-nowhere-chapters-10-an
  d-11
+END:VEVENT
+BEGIN:VEVENT
+UID:1f3421020d7987ae5a1e@dpi-events.postquantum.space
+DTSTAMP:20261106T174511Z
+DTSTART:20261216T123000Z
+DTEND:20261216T133000Z
+SUMMARY:How to train your slop cannon: AI skill share
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:The next AI lunch at the DPI is a skill share (no talk) on Wedn
+ esday 16 December 2026\, 12:30 to 13:30\, in the DPI Hub (Room G23\, Kathl
+ een Lonsdale Building). Bring your own lunch.\n\nhttps://www.ucl.ac.uk/mat
+ hematical-physical-sciences/events/2026/dec/how-train-your-slop-cannon-ai-
+ skill-share-0
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/dec/ho
+ w-train-your-slop-cannon-ai-skill-share-0
 END:VEVENT
 END:VCALENDAR
