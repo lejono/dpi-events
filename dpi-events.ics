@@ -186,6 +186,21 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/wh
  ere-entanglement-quantum-field-and-what-can-local-observer-access
 END:VEVENT
 BEGIN:VEVENT
+UID:770aaf0faa18d2144dcb@dpi-events.postquantum.space
+DTSTAMP:20261106T164508Z
+DTSTART:20261110T140000Z
+DTEND:20261110T150000Z
+SUMMARY:Quantum Unconference
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:Quantum Unconference joint with the departments of Physics and 
+ Computer Science on Tuesday 10 November 2026\, 14:00 to 15:00\, at the Dav
+ id Potter Institute.\n\nhttps://www.ucl.ac.uk/mathematical-physical-scienc
+ es/events/2026/nov/quantum-unconference
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/qu
+ antum-unconference
+END:VEVENT
+BEGIN:VEVENT
 UID:01545d75990a707b2969@dpi-events.postquantum.space
 DTSTAMP:20261104T235948Z
 DTSTART:20261117T110000Z
