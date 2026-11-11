@@ -302,4 +302,18 @@ DESCRIPTION:The next AI lunch at the DPI is a skill share (no talk) on Wedn
 URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/dec/ho
  w-train-your-slop-cannon-ai-skill-share-0
 END:VEVENT
+BEGIN:VEVENT
+UID:06230e44c240750c8988@dpi-events.postquantum.space
+DTSTAMP:20261111T084518Z
+DTSTART:20270119T120000Z
+DTEND:20270119T133000Z
+SUMMARY:quantum unconference
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:A quantum unconference on 19 January 2027 at 12:00 at the DPI H
+ ub.\n\nhttps://www.ucl.ac.uk/mathematical-physical-sciences/events/2027/ja
+ n/quantum-unconference
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2027/jan/qu
+ antum-unconference
+END:VEVENT
 END:VCALENDAR
