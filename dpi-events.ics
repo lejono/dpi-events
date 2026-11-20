@@ -235,6 +235,20 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/ho
  w-train-your-slop-cannon-ai-skill-share-0
 END:VEVENT
 BEGIN:VEVENT
+UID:a5bb28e842b616b82a82@dpi-events.postquantum.space
+DTSTAMP:20261120T124516Z
+DTSTART:20261130T100000Z
+DTEND:20261130T150000Z
+SUMMARY:Gravity Seminar
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:Weekly Gravity Seminar and group meeting at the DPI Hub\, Room 
+ G23\, from Monday 30 November 2026\, 10:00 to 15:00.\n\nhttps://www.ucl.ac
+ .uk/mathematical-physical-sciences/events/2026/nov/gravity-seminar
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/gr
+ avity-seminar
+END:VEVENT
+BEGIN:VEVENT
 UID:23aae7c9cb8deb5161b5@dpi-events.postquantum.space
 DTSTAMP:20261104T235948Z
 DTSTART:20261201T110000Z
