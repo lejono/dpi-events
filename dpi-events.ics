@@ -235,6 +235,22 @@ URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/ho
  w-train-your-slop-cannon-ai-skill-share-0
 END:VEVENT
 BEGIN:VEVENT
+UID:08e9e404222cc092bccf@dpi-events.postquantum.space
+DTSTAMP:20261125T144511Z
+DTSTART:20261126T140000Z
+DTEND:20261126T153000Z
+SUMMARY:Charge acceleration without radiation (a new aspect of the Aharonov
+ -Bohm effect)
+LOCATION:DPI Hub\, Room G23\, Kathleen Lonsdale Building\, Gower Place\, Lo
+ ndon
+DESCRIPTION:Prof Sandu Popescu gives a seminar on Thursday 26 November 2026
+  at 14:00 at the DPI Hub\, Room G23.\n\nhttps://www.ucl.ac.uk/mathematical
+ -physical-sciences/events/2026/nov/charge-acceleration-without-radiation-n
+ ew-aspect-aharonov-bohm-effect
+URL:https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/nov/ch
+ arge-acceleration-without-radiation-new-aspect-aharonov-bohm-effect
+END:VEVENT
+BEGIN:VEVENT
 UID:a5bb28e842b616b82a82@dpi-events.postquantum.space
 DTSTAMP:20261120T124516Z
 DTSTART:20261130T100000Z
